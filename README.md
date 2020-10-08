@@ -29,6 +29,6 @@ This file contians all of the pygame classes needed for the game as well as all 
 Within this repository there is menu flow diagram for the program labeled 'menuflow.png' as well as some captures of the programs interfaces
 
 Features I need to develop before it is finished:
- -The data tracking system
- -The tracked data system
- -Add more topics instead of just Algebreaic expressions
+ - The data tracking system
+ - The tracked data system
+ - Add more topics instead of just Algebreaic expressions
