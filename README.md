@@ -1,5 +1,5 @@
 # Maths-Revision-Sytem
-This is the prototype of my A-Level coursework, it is a mathematics revision system, that has allows students to learn through the integrated game as well as track their progress over time and send this progress to teachers. There is a revision game where students can go through lessons and see topic tips, and then a main game where you have the option to once again see the topic tips, do warmup questions and then a boss battle of sorts where you are tested on the topic, this mode is what tracks the students progress. 
+This is the prototype of my A-Level coursework, it is a mathematics revision system, that has allows students to learn through the integrated game as well as track their progress over time and send this progress to teachers. There is a revision game where students can go through lessons and see topic tips, and then a main game where you have the option to once again see the topic tips, do warmup questions and then a boss battle of sorts where you are tested on the topic, this mode is what tracks the students progress. In both the game and the revision game you see lessons and other attatched windows by walking over to the teachers in the gane and talking to them. 
 
 Libraries used:
 - pygame
