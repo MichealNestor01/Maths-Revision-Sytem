@@ -26,7 +26,7 @@ gameEngine.py:
 
 This file contians all of the pygame classes needed for the game as well as all of the PyQt5 windows that are required for the game
 
-Within this repository there is menu flow diagram for the program labeled 'menuflow.png' as well as some captures of the programs interfaces
+Within this repository's diagrams and captures folder there is menu flow diagram for the program labeled 'menuflow.png',a relational database diagram and some captures of the program's interfaces 
 
 Features I need to develop before it is finished:
  - The data tracking system
