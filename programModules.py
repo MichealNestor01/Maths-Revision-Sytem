@@ -2878,7 +2878,7 @@ def sendMail(subject, body, emailRecipient):
     server.starttls()
     server.ehlo()
     # this gmail account was set up for this program to use it's only use is this program
-    server.login("mathrevisionprogram@gmail.com", "Password2020")
+    server.login("mathrevisionprogram@gmail.com", "------") #password removed for github
     msg = f"Subject: {subject}\n\n{body}"
     server.sendmail("mathrevisionprogram@gmail.com", emailRecipient, msg)
     server.quit()
